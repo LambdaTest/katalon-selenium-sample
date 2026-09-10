@@ -13,7 +13,7 @@
 With TestMu AI (Formerly LambdaTest), you can run Katalon Studio Selenium tests on the TestMu AI (Formerly LambdaTest) cloud across 2000+ browser and OS combinations.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
-- Follow the [TestMu AI documentation](https://www.testmuai.com/support/docs/running-groovy-script-in-katalon-with-testmu-selenium-grid/) (Formerly LambdaTest) for the full setup walkthrough.
+- Follow the [Run Katalon tests on TestMu AI](https://www.testmuai.com/support/docs/running-groovy-script-in-katalon-with-testmu-selenium-grid/) (Formerly LambdaTest) for the full setup walkthrough.
 
 ### Prerequisites
 
